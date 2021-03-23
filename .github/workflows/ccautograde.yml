@@ -18,6 +18,5 @@ jobs:
     - name: Build with Maven
       run: mvn clean test
       env:
-        AID: "5634161670881280"
-        CID: "5f3ffdd9-e102-4296-b835-468897f7a0dd"
-                                    
+        AID: "5644004762845184"
+        CID: "aa5fbab2-9b2a-4168-969f-2d6b87a5049d"
